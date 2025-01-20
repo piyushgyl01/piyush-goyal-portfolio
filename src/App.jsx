@@ -193,11 +193,12 @@ function App() {
               <span id="designAndCode">After Effects & Figma's UI</span>{" "}
               <span id="remaining">plus everything in between</span>
             </h1>
-            <p className="hero-text">
+           <p className="hero-text">
               hey, i'm piyush goyal, based out of delhi & bangalore, india.
-              design say UX/UI, visual, even architectural always piques my
-              interest. i believe in having a great taste. so how about we
-              create something interesting together?
+              design say video, UX/UI, visual, even architectural always piques
+              my interest and i'm hopelessly obsessed with it. i believe in
+              having a great taste. so how about we create something interesting
+              together?
             </p>
             <a
               target="_blank"
