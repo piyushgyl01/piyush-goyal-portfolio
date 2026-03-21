@@ -401,7 +401,7 @@ function App() {
                   <p className="mb-0 fw-medium">Twitter/X</p>
                   <p className="mb-0">
                     <a
-                      href="https://github.com/piyushgyl01"
+                      href="https://x.com/piyush_gyl"
                       target="_blank"
                       rel="noopener noreferrer"
                       style={{ color: "#d9d0ff" }}
