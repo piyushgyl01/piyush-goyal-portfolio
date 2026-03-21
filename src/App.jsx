@@ -379,7 +379,7 @@ function App() {
                 </div>
               </div>
               <div className="d-flex align-items-center col-md-4 mb-3">
-                <a href="https://wa.me/919319935187?text=Hey%20Piyush,%20let's%20collaborate!">
+                <a href="https://api.whatsapp.com/send/?phone=919319935187">
                   {" "}
                   <img src={phone} alt="Phone Icon" className="me-3" />
                 </a>
@@ -387,14 +387,14 @@ function App() {
                   <p className="mb-0 fw-medium">WhatsApp Me</p>
                   <a
                     style={{ color: "#d9d0ff" }}
-                    href="https://wa.me/919319935187?text=Hey%20Piyush,%20let's%20collaborate!"
+                    href="https://api.whatsapp.com/send/?phone=919319935187"
                   >
                     <p className="mb-0 ">+91 9319935187</p>
                   </a>
                 </div>
               </div>
               <div className="d-flex col-md-4 align-items-center">
-                <a href="https://github.com/piyushgyl01">
+                <a href="https://x.com/piyush_gyl">
                   <img src={x} alt="GitHub Icon" className="me-3" />
                 </a>
                 <div className="contactDetails">
