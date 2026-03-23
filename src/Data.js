@@ -1,35 +1,35 @@
 export const projects = [
   // Product Design Projects (keeping as is)
-  {
-    id: 1,
-    title: "Customer Support Page",
-    description: `"I designed a customer support and issue
-    tracking system to provide quick, clear answers to
-    users' product-related questions."`,
-    type: ["Product Design"],
-    image:
-      "https://github.com/piyushgyl01/images/blob/main/customerSupport.png?raw=true",
-    websiteUrl:
-      "https://www.figma.com/design/ex0UCTxbz3SNf0OkaeUG6I/Customer-Support-Page-By-Piyush-Goyal?node-id=0-1&t=ESdVthF52u2eR98C-1",
-    sourceCodeUrl: "https://github.com/username/design-system",
-    technologies: ["Web Design", "Figma"],
-    featured: true,
-  },
-  {
-    id: 2,
-    title: "Work Showcase Design",
-    description: `"I designed and animated Design Studios' work
-    showcase page, starting with an eye-catching hero
-    section to immediately grab visitors' attention."`,
-    type: ["Product Design"],
-    image:
-      "https://github.com/piyushgyl01/images/blob/main/showcase.png?raw=true",
-    websiteUrl:
-      "https://www.figma.com/design/dgubJXu8P1gKA8vu3fklpa/Blog-Page-by-Piyush-Goyal?node-id=0-1&t=ESdVthF52u2eR98C-1",
-    sourceCodeUrl: "https://github.com/username/design-system",
-    technologies: ["Web Design", "Figma"],
-    featured: true,
-  },
+  // {
+  //   id: 1,
+  //   title: "Customer Support Page",
+  //   description: `"I designed a customer support and issue
+  //   tracking system to provide quick, clear answers to
+  //   users' product-related questions."`,
+  //   type: ["Product Design"],
+  //   image:
+  //     "https://github.com/piyushgyl01/images/blob/main/customerSupport.png?raw=true",
+  //   websiteUrl:
+  //     "https://www.figma.com/design/ex0UCTxbz3SNf0OkaeUG6I/Customer-Support-Page-By-Piyush-Goyal?node-id=0-1&t=ESdVthF52u2eR98C-1",
+  //   sourceCodeUrl: "https://github.com/username/design-system",
+  //   technologies: ["Web Design", "Figma"],
+  //   featured: true,
+  // },
+  // {
+  //   id: 2,
+  //   title: "Work Showcase Design",
+  //   description: `"I designed and animated Design Studios' work
+  //   showcase page, starting with an eye-catching hero
+  //   section to immediately grab visitors' attention."`,
+  //   type: ["Product Design"],
+  //   image:
+  //     "https://github.com/piyushgyl01/images/blob/main/showcase.png?raw=true",
+  //   websiteUrl:
+  //     "https://www.figma.com/design/dgubJXu8P1gKA8vu3fklpa/Blog-Page-by-Piyush-Goyal?node-id=0-1&t=ESdVthF52u2eR98C-1",
+  //   sourceCodeUrl: "https://github.com/username/design-system",
+  //   technologies: ["Web Design", "Figma"],
+  //   featured: true,
+  // },
   {
     id: 3,
     title: "Pocket Pod",
